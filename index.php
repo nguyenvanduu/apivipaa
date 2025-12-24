@@ -1,7 +1,7 @@
 <?php
 
 // API gốc
-$apiUrl = 'https://wtxmd52.tele68.com/v1/txmd5/sessions';
+$apiUrl = 'https://wtx.tele68.com/v1/tx/sessions';
 
 // Gọi API bằng cURL
 $ch = curl_init();
